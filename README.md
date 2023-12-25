@@ -1,1 +1,5 @@
-# lottery-onchain
+# 抽奖 On Chain
+
+链上版抽奖。
+
+
